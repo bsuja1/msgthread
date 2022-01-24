@@ -8,6 +8,7 @@ Database has been designed with 3 tables, modeled, migrated and seeded. Controll
 After downloading the project, go to the project folder and run rails server.
 
 cd msgthread
+
 rails s
 
 //go to http://localhost:3000/ to view
