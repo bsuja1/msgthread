@@ -1,24 +1,22 @@
 # README
+The project is made using Ruby on Rails. It is designed as the backend for a chat-app / message-thread-app. Database has been designed with 3 tables, modeled, migrated, serialized and seeded. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Rails 7.0.1
+* Database created using SQLite3
 
-Things you may want to cover:
+After downloading the project, run
 
-* Ruby version
+npm start
 
-* System dependencies
+//go to http://localhost:3000/ to view
 
-* Configuration
 
-* Database creation
+To view the initial contents/schema of the tables in te database, go to:
 
-* Database initialization
+http://localhost:3000/users
+http://localhost:3000/messages
+http://localhost:3000/msgthreads
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
